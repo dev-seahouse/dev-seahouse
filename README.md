@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://api.daily.dev/devcards/b2a0b896ef724e68a2364c727e8e9e6e.png?r=20z" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/xinkenan11"><img src="https://api.daily.dev/devcards/a03b4484b20b46f1b373d536e7e274d0.png?r=j9f" width="400" alt="Kenan's Dev Card"/></a>
 
 <!--
 **dev-seahouse/dev-seahouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
